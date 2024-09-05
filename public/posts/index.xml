@@ -9,6 +9,13 @@
     <lastBuildDate>Wed, 21 Aug 2024 18:05:11 +0800</lastBuildDate>
     <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Locky App Policy</title>
+      <link>https://example.org/posts/en/privacy-policy/</link>
+      <pubDate>Wed, 21 Aug 2024 18:05:11 +0800</pubDate>
+      <guid>https://example.org/posts/en/privacy-policy/</guid>
+      <description>Effective Date: August 15, 2024 # 1. How We Collect and Use Personal Information # To provide you with our services, maintain the normal and secure operation of the services, and optimize the service experience, we collect the personal information you voluntarily provide or authorize during the use of our services for the following purposes and methods:&#xA;1.1 User Feedback # During the use of our services, you can provide feedback on any issues encountered and your service experience, helping us understand your experience and needs.</description>
+    </item>
+    <item>
       <title>锁小二App隐私政策</title>
       <link>https://example.org/posts/privacy-policy/</link>
       <pubDate>Wed, 21 Aug 2024 18:05:11 +0800</pubDate>
@@ -16,11 +23,25 @@
       <description> 生效日期：2024年8月15日 # 1. 本服务如何收集和使用个人信息 # 为了向您提供本服务，维护服务的正常安全运行、优化服务功能体验，我们会按照以下目的和方式收集您在使用服务时主动提供或授权的个人信息：&#xA;1.1 用户反馈 # 在使用本服务过程中，您可以对遇到的问题及服务体验进行反馈，帮助我们了解您的体验和需求。我们会记录您反馈的问题或建议、您发送的问卷反馈信息，以便改善我们的产品和服务。&#xA;2. 未成年人保护 # 2.1 服务面向所有用户。 # 2.2 若您是未成年人的监护人，对您监护的未成年人个人信息有疑问时，请通过本隐私政策公示的联系方式与我们联系。 # 3. 隐私政策的修订和通知 # 3.1 为提供更好的服务，我们会适时修订本隐私政策，修订内容具有等同于本政策的效力。未经您明确同意，我们不会削减您依据当前生效政策所享有的权利。 # 3.2 隐私政策更新后，我们会发出更新版本，并在更新条款生效前通过适当方式提醒您，以便您了解最新版本。继续使用服务即视为接受更新后的隐私政策。 # 4. 联系我们 # 4.1 小守护产品为独立开发者的作品。如有任何疑问、意见或请求，请发送至work@dramavision.top。我们会在收到联系信息后的十五个工作日内回复。 # 5. 其他 # 5.1 本隐私政策可能有多种语言版本，如有不一致或冲突，以中文简体版本为准。 # 5.2 本隐私政策中的标题为方便阅读而设，不影响政策规定的含义或解释。 # </description>
     </item>
     <item>
+      <title>Locky App User Agreement</title>
+      <link>https://example.org/posts/en/user-protocol/</link>
+      <pubDate>Wed, 21 Aug 2024 17:59:03 +0800</pubDate>
+      <guid>https://example.org/posts/en/user-protocol/</guid>
+      <description>Effective Date: August 15, 2024 # 1. Introduction # Welcome to the Locky App. These terms and conditions govern your use of this service.&#xA;2. User Usage Guidelines # 2.1 Behavioral Requirements # Correctly configure and use the service. Do not interfere with, damage, or modify the normal operation of the service. 2.2 Prohibited Actions # Actions that endanger computer network security. Unauthorized use of data or access to servers/accounts.</description>
+    </item>
+    <item>
       <title>锁小二App用户协议</title>
       <link>https://example.org/posts/user-protocol/</link>
       <pubDate>Wed, 21 Aug 2024 17:59:03 +0800</pubDate>
       <guid>https://example.org/posts/user-protocol/</guid>
-      <description> 生效日期：2024年8月15日 # 1. 前言 # 欢迎使用锁小二App，本条款规定了您使用本服务时须遵循的条款与条件。&#xA;2. 用户使用规范 # 2.1 行为要求 # 正确配置和使用本服务。 不得干扰、破坏或修改服务的正常运行。 2.2 不得进行的行为 # 危害计算机网络安全的行为。 未经授权使用数据或进入服务器/账号。 伪造数据包或进行网络安全测试。 侵犯知识产权或进行非法复制、销售服务。 3. 数据隐私与安全 # 使用本服务即表示您已阅读并接受我们的隐私政策。&#xA;4. 知识产权 # 所有服务内容的知识产权归锁小二所有，未经授权不得使用。&#xA;5. 违约与赔偿 # 违反条款可能导致服务限制或终止，您需自行承担后果。&#xA;6. 有限担保 # 我们尽力提供连贯和安全的服务，但不保证服务的连续性或无误性。&#xA;7. 责任限制 # 我们不对间接损害、数据丢失等承担责任，赔偿责任限于您已支付的服务费。&#xA;8. 费用 # 使用本服务可能产生费用，由您自行承担。&#xA;9. 高级会员自动订阅说明 # 订阅周期：1元/周，2.8元/月，28元/年。 订阅与Apple ID绑定，支持家人共享。 自动续订前24小时扣费，可手动取消。 10. 其他条款 # 本条款包括所有已发布或将来可能发布的规则和通知。 适用法律为中华人民共和国法律，争议提交至有管辖权的人民法院解决。 我们保留随时修订条款的权利，修订后继续使用即表示接受。 </description>
+      <description> 生效日期：2024年8月15日 # 1. 前言 # 欢迎使用锁小二App，本条款规定了您使用本服务时须遵循的条款与条件。&#xA;2. 用户使用规范 # 2.1 行为要求 # 正确配置和使用本服务。 不得干扰、破坏或修改服务的正常运行。 2.2 不得进行的行为 # 危害计算机网络安全的行为。 未经授权使用数据或进入服务器/账号。 伪造数据包或进行网络安全测试。 侵犯知识产权或进行非法复制、销售服务。 3. 数据隐私与安全 # 使用本服务即表示您已阅读并接受我们的隐私政策。&#xA;4. 知识产权 # 所有服务内容的知识产权归锁小二所有，未经授权不得使用。&#xA;5. 违约与赔偿 # 违反条款可能导致服务限制或终止，您需自行承担后果。&#xA;6. 有限担保 # 我们尽力提供连贯和安全的服务，但不保证服务的连续性或无误性。&#xA;7. 责任限制 # 我们不对间接损害、数据丢失等承担责任，赔偿责任限于您已支付的服务费。&#xA;8. 费用 # 使用本服务可能产生费用，由您自行承担。&#xA;9. 高级会员自动订阅说明 # 订阅周期：8元/月，28元/年。 订阅与Apple ID绑定，支持家人共享。 自动续订前24小时扣费，可手动取消。 10. 其他条款 # 本条款包括所有已发布或将来可能发布的规则和通知。 适用法律为中华人民共和国法律，争议提交至有管辖权的人民法院解决。 我们保留随时修订条款的权利，修订后继续使用即表示接受。 </description>
+    </item>
+    <item>
+      <title>Locky App User Guidence</title>
+      <link>https://example.org/posts/en/locky-guide/</link>
+      <pubDate>Tue, 20 Aug 2024 13:01:12 +0800</pubDate>
+      <guid>https://example.org/posts/en/locky-guide/</guid>
+      <description>Welcome to the Locky App # This manual will guide you on how to use the Locky app to create a healthy, safe, and balanced environment for your child&amp;rsquo;s phone or tablet. If you have any questions or suggestions during use, please feel free to contact us or submit feedback.&#xA;Product Overview # The Locky app is designed specifically for parents to help manage their child&amp;rsquo;s device usage and prevent excessive indulgence.</description>
     </item>
     <item>
       <title>锁小二APP使用手册</title>

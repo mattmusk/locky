@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.org/posts/en/privacy-policy/</loc>
+    <lastmod>2024-08-21T18:05:11+08:00</lastmod>
+  </url><url>
     <loc>https://example.org/</loc>
     <lastmod>2024-08-21T18:05:11+08:00</lastmod>
   </url><url>
@@ -11,8 +14,14 @@
     <loc>https://example.org/posts/privacy-policy/</loc>
     <lastmod>2024-08-21T18:05:11+08:00</lastmod>
   </url><url>
+    <loc>https://example.org/posts/en/user-protocol/</loc>
+    <lastmod>2024-08-21T17:59:03+08:00</lastmod>
+  </url><url>
     <loc>https://example.org/posts/user-protocol/</loc>
     <lastmod>2024-08-21T17:59:03+08:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/en/locky-guide/</loc>
+    <lastmod>2024-08-20T13:01:12+08:00</lastmod>
   </url><url>
     <loc>https://example.org/posts/locky-guide/</loc>
     <lastmod>2024-08-20T13:01:12+08:00</lastmod>
