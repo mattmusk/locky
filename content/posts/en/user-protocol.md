@@ -1,5 +1,5 @@
 ---
-title: "Locky App User Agreement"
+title: "Locky Terms of Use"
 date: 2024-08-21T17:59:03+08:00
 # bookComments: false
 # bookSearchExclude: false

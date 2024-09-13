@@ -1,5 +1,5 @@
 ---
-title: "锁小二App用户协议"
+title: "锁小二App使用协议"
 date: 2024-08-21T17:59:03+08:00
 # bookComments: false
 # bookSearchExclude: false
