@@ -9,7 +9,7 @@ hugo new content content/posts/user-protocol.md
 ```
 hugo server -D
 ```
-### 生成显示环境文件
+### 生成线上环境文件
 ```
 hugo
 ``` 
